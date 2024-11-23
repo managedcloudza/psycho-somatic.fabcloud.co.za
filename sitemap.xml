@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dev.psycho-somatic.fabcloud.co.za/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://psycho-somatic.fabcloud.co.za/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/</loc>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/contact/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/contact/</loc>
 <lastmod>2024-11-23T12:22:37+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/mechano-kinetics/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/mechano-kinetics/</loc>
 <lastmod>2024-11-23T12:26:19+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/media-2/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/media-2/</loc>
 <lastmod>2024-11-23T12:38:01+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/meta-mind-surgery/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/meta-mind-surgery/</loc>
 <lastmod>2024-11-23T12:23:29+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/metaphysical-therapy/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/metaphysical-therapy/</loc>
 <lastmod>2024-11-23T12:21:35+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/sky-of-mind/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/sky-of-mind/</loc>
 <lastmod>2024-11-23T12:20:22+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/testimonials/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/testimonials/</loc>
 <lastmod>2024-11-23T11:51:26+02:00</lastmod>
 </url>
 <url>
-<loc>https://dev.psycho-somatic.fabcloud.co.za/thesis-2/</loc>
+<loc>https://psycho-somatic.fabcloud.co.za/thesis-2/</loc>
 <lastmod>2024-11-23T12:37:19+02:00</lastmod>
 </url>
 </urlset>
