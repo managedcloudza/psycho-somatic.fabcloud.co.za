@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dev.psycho-somatic.fabcloud.co.za/sitemap.xml
